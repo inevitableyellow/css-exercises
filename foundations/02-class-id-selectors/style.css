@@ -1,0 +1,15 @@
+.odd {
+    background-color: #F8C7CC; font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#ID {
+    color: #90F1EF; font-size: 36px;
+}
+.odd.three {
+    font-size: 24px;
+}
+#three {
+    font-size: 24px;
+}
+#four {
+    background: #C1FBA4; font-size: 24px; font-weight: 700;
+}
